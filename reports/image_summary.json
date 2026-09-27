@@ -1,0 +1,23 @@
+{
+  "mode": "image",
+  "perf": {
+    "valid_frames": 50,
+    "error_frames": 0,
+    "total_ms_mean": 99.14412374002495,
+    "total_ms_min": 82.48256500064599,
+    "total_ms_max": 143.8852200008114,
+    "total_ms_p95": 125.15600600027024,
+    "infer_ms_mean": 78.21470933997261,
+    "fps_avg": 10.08632647379277
+  },
+  "resource": {
+    "rss_start_mb": 738.34765625,
+    "rss_end_mb": 740.31640625,
+    "rss_max_mb": 740.31640625,
+    "rss_mean_mb": 740.211015625,
+    "cpu_mean": 21.926,
+    "cpu_max": 29.3,
+    "npu_mean": null,
+    "npu_max": null
+  }
+}
